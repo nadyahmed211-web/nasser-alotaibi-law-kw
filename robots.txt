@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nasser-alotaibi-law-kw.nadyahmed211.workers.dev/sitemap.xml
